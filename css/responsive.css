@@ -1,0 +1,32 @@
+/* Normal desktop :1200px. (12.5" +; Normal/Large Desktop) */
+@media (min-width: 1200px) {
+
+
+}
+ 
+/* Normal desktop :992px.  (10" - 12.4" Tablet_Landscape_Mode/Laptop/Normal Desktop) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+}
+
+ 
+/* Tablet desktop :768px. (8" - 9.9" Mobile Landscape Mode / Tablet ported Mode) */
+@media (min-width: 768px) and (max-width: 991px) {
+
+
+}
+
+ 
+/* Large Mobile :480px. (5" - 7.9" Mobile ported mode) */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+ 
+}
+ 
+ 
+/* small mobile :320px. (1" - 4.9" small mobile) */
+@media (max-width: 479.98px) {
+
+ 
+}

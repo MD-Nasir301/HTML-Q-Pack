@@ -1,0 +1,98 @@
+
+
+/* Default css: **********/
+@import url('https://fonts.googleapis.com/css?family=Arapey:400,400i|Cookie|Source+Serif+Pro:400,600,700|Tangerine:400,700|Tinos:400,400i,700,700i&display=swap');
+/* 
+font-family: 'Source Serif Pro', serif;          (for menu)
+font-family: 'Tangerine', cursive;               (for special text,stylish text,quotation text)
+font-family: 'Arapey', serif;                    (for paragraph)
+font-family: 'Tinos', serif;                     (for heading)
+font-family: 'Cookie', cursive;                  (for special paragraph)
+*/
+ body {
+	font-family: 'Cookie', cursive;     
+	font-style: normal;
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 100%;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Tinos', serif; 
+	font-weight: 600;
+	font-style: normal;
+	line-height: 1;
+	color: #111010;
+	margin-top: 0px;
+	text-transform: normal;
+}
+p{
+	font-family: 'Arapey', serif;    
+	font-weight: 400;
+	font-style: normal;
+	font-size: 24px;
+	line-height: 30px;
+	color: #0c0202;
+}
+ul,li,a{
+	font-family: 'Source Serif Pro', serif;  
+	font-size: 20px;
+	list-style: none;
+	color:black;
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+a:hover {
+	text-decoration:none;
+}
+button {
+	cursor: pointer;
+}
+/* Background Color */
+.gray-bg {
+	background: #f7f7fd;
+}
+.white-bg {
+	background: #fff;
+}
+.black-bg {
+	background: #222;
+}
+.theme-bg {
+	background: #222;
+}
+.primary-bg {
+	background: #222;
+}
+.f-left{
+	float: left;
+}
+.f-right{
+	float: right;
+}
+.btn {
+	-moz-user-select: none;
+	background: #1696e7 none repeat scroll 0 0;
+	border: medium none;
+	border-radius: 2px;
+	color: #fff;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 13px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	line-height: 1;
+	margin-bottom: 0;
+	padding: 13px 25px;
+	text-align: center;
+	text-transform: uppercase;
+	touch-action: manipulation;
+	transition: all 0.3s ease 0s;
+	vertical-align: middle;
+	white-space: nowrap;
+}
+
+/* New css here ---------------------------- */
+
+
+
